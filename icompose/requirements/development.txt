@@ -1,0 +1,22 @@
+# using the newest stable version by default
+
+# django==3.2
+django
+
+# uwsgi==2.0.18
+uwsgi
+
+# mysql
+#mysqlclient==1.4.6
+mysqlclient
+
+# redis
+#django-redis==4.12.1
+django-redis
+
+#redis==3.5.3
+redis
+# for images
+
+#Pillow==8.2.0
+Pillow
